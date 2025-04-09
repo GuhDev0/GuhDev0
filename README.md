@@ -13,6 +13,20 @@
 - **Front (básico):** HTML, CSS, React
 
 ---
+### 👨‍💻 Sobre mim
+
+Olá! Me chamo Gustavo, tenho 22 anos, e encontrei na programação uma paixão que virou objetivo de vida.  
+Tudo começou quando um amigo me apresentou HTML e CSS. Com o tempo, fui explorando JavaScript e me apaixonei por ver ideias ganhando forma na tela.  
+Mas foi ao conhecer o back-end que senti realmente que estava no caminho certo. Gosto da lógica por trás das aplicações, da conexão com bancos de dados, da construção de APIs…  
+Ainda assim, não abro mão do front-end. Sou um amante dos dois lados e acredito que entender o todo torna qualquer dev mais completo.
+
+### 🎯 Objetivo
+
+Estou buscando minha **primeira oportunidade como desenvolvedor back-end**.  
+Foco em aprender com projetos reais, crescer em equipe e evoluir como profissional.
+
+---
+
 
 ### 🚧 Projetos em destaque
 
@@ -33,25 +47,11 @@
 
 ---
 
-### 🎯 Objetivo
-
-Estou buscando minha **primeira oportunidade como desenvolvedor back-end**.  
-Foco em aprender com projetos reais, crescer em equipe e evoluir como profissional.
-
----
-
-### 🎮 Sobre mim
-
-- Main ADC 🎯 (quem joga LoL, sabe a responsa)
-- Criador de conteúdo sobre League of Legends e programação
-- Estudando como se fosse grindar pro Diamante
-
----
 
 ### 📫 Contato
 
-- Email: **seuemail@gmail.com**
-- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+- Email: **contato.devgustavo@gmail.com**
+- LinkedIn: [[linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
 
 ---
 
