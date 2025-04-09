@@ -28,7 +28,9 @@ Foco em aprender com projetos reais, crescer em equipe e evoluir como profission
 
 ### 🚧 Projetos em destaque
 
---EM BREVE
+## API Fatos Históricos
+Uma API construída com Node.js e Express que retorna fatos históricos com base no ano informado (entre 1920 e 2020). Foi um dos meus primeiros projetos focando em rotas, organização de arquivos e leitura de dados em JSON.
+🔗 Ver repositório
 
 ### 📚 Atualmente estudando
 
