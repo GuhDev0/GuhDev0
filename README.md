@@ -25,33 +25,20 @@ Ainda assim, não abro mão do front-end. Sou um amante dos dois lados e acredit
 Estou buscando minha **primeira oportunidade como desenvolvedor back-end**.  
 Foco em aprender com projetos reais, crescer em equipe e evoluir como profissional.
 
----
-
 
 ### 🚧 Projetos em destaque
 
-- 📊 [League Stats API](https://github.com/GuhDev0/league-stats-api)  
-  API de estatísticas de League of Legends com Node.js, Prisma e PostgreSQL.
-
-- 🧠 [CRUD Champions](https://github.com/GuhDev0/champions-crud)  
-  Projeto completo de CRUD para treino de TypeScript + PostgreSQL.
-
----
+--EM BREVE
 
 ### 📚 Atualmente estudando
 
 - NestJS
 - Autenticação com JWT
-- Testes com Jest
-- Deploy com Railway e Vercel
-
----
-
 
 ### 📫 Contato
 
 - Email: **contato.devgustavo@gmail.com**
-- LinkedIn: [[linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
+- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
 
 ---
 
