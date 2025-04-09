@@ -33,6 +33,7 @@ Foco em aprender com projetos reais, crescer em equipe e evoluir como profission
 ### 📚 Atualmente estudando
 
 - NestJS
+- prisma
 - Autenticação com JWT
 
 ### 📫 Contato
