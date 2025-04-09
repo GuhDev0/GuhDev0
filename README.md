@@ -34,9 +34,9 @@ Uma API construída com Node.js e Express que retorna fatos históricos com base
 
 ### 📚 Atualmente estudando
 
-- NestJS
-- prisma
-- Autenticação com JWT
+- Express
+- PostgreSQL e prisma
+- Docker
 
 ### 📫 Contato
 
