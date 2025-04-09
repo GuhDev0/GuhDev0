@@ -4,6 +4,10 @@
 
 ---
 
+Você pode conferir meu portfólio acessando o link abaixo:
+
+👉 [devgustavoportifolio.netlify.app](https://devgustavoportifolio.netlify.app/)
+
 ### 🛠️ Tecnologias que uso
 
 - **Linguagens:** JavaScript, TypeScript
