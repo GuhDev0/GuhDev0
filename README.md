@@ -4,7 +4,7 @@
 
 ---
 
-Você pode conferir meu portfólio acessando o link abaixo:
+Você pode conferir meu portfólio mais Visual:
 
 👉 [devgustavoportifolio.netlify.app](https://devgustavoportifolio.netlify.app/)
 
