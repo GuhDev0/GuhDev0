@@ -41,7 +41,7 @@ Uma API construída com Node.js e Express que retorna fatos históricos com base
 ### 📫 Contato
 
 - Email: **contato.devgustavo@gmail.com**
-- LinkedIn: [linkedin.com/in/seuperfil](www.linkedin.com/in/gustavo-costa-araujo-)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gustavo-costa-araujo-)
 
 ---
 
