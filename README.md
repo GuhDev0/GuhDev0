@@ -11,7 +11,7 @@ Você pode conferir meu portfólio mais Visual:
 ### 🛠️ Tecnologias que uso
 
 - **Linguagens:** JavaScript, TypeScript
-- **Back-end:** Node.js, Express, Prisma
+- **Back-end:**  Java ,Node.js, Express, Prisma
 - **Banco de dados:** PostgreSQL
 - **Outros:** Git, GitHub, Postman
 - **Front (básico):** HTML, CSS, React
