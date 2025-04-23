@@ -38,8 +38,8 @@ Uma API construída com Node.js e Express que retorna fatos históricos com base
 
 ### 📚 Atualmente estudando
 
-- Express
-- PostgreSQL e prisma
+- Java
+- PostgreSQL 
 - Docker
 
 ### 📫 Contato
